@@ -1,0 +1,157 @@
+/*header*/
+
+header{
+	height: 100px;
+	width: 1170px;
+	margin: auto;
+	padding: 20px 0;
+}
+.logo{
+	height: 60px;
+}
+.header-div{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header-ul{
+	display: flex;
+}
+.header-li{
+	margin-left: 20px;
+}
+
+/*header*/
+
+/*section 1*/
+
+.section-1{
+	height: 520px;
+	padding-top: 30px;
+	background-color: #E6E6E6;
+}
+.section-1-div1{
+	width: 1170px;
+	margin:auto;
+}
+
+/*section 1*/
+
+/*section-2*/
+.section-2{
+	height: 500px;
+	background-color: #363E97;
+	padding-top: 35px;
+}
+.seciont-2-div{
+	width: 1170px;
+	margin: auto;
+}
+.section-2-h1{
+	font-size: 25px;
+	margin-bottom: 35px;
+	color: #fff;
+}
+.box-sizes{
+	width: 570px;
+	height: 320px;
+	background-color: #fff;
+}
+.boxes{
+	display: flex;
+	justify-content: space-between;
+}
+
+/*section-2*/
+
+/*section 3*/
+.section-3{
+	background-color: #BDCCD4;
+	height: 450px;
+	padding-top: 37.5px;
+}
+.section-3-div{
+	width: 1170px;
+	margin: auto;
+}
+.section-3-h1{
+	font-size: 25px;
+	margin-bottom:37.5px;
+	color: #3D58A6;
+}
+.section-3-imgs{
+	display: flex;
+	justify-content: space-between;
+}
+.section-3-img-sizes{
+	width: 270px;
+}
+.under-img{
+	height: 60px;
+	width: 270px;
+	background-color: #E6E6E6;
+	padding: 20px 0 0 14px;
+}
+
+/*section 3*/
+
+/*section 4*/
+.section-4{
+	background-color: #E6E6E6;
+	height: 350px;
+	padding-top:24px; 
+}
+.section-4-div{
+	width: 1170px;
+	margin: auto;
+}
+.section-4-h1{
+	font-size: 25px;
+	margin-bottom: 24px;
+	color: purple;
+}
+.white-box{
+	height: 225px;
+	width: 570px;
+	background-color: #fff;
+	padding: 15px 15px 15px 45px;
+}
+.section-4-box{
+	display: flex;
+	justify-content: space-between;
+}
+.white-h1{
+		font-size: 25px;
+		color: #3D58A6;
+		margin-bottom: 15px;
+}
+.white-img{
+	height: 130px;
+}
+.img-text{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+.white-text{
+	width: 355px;
+	font-size: 20px;
+}
+.read-more{
+	float: right;
+	color: #3D58A6;
+}
+/*section 4*/
+
+/*footer*/
+footer{
+	width: 1170px;
+	margin:auto;
+	height: 60px;
+	display: flex;
+	justify-content: space-between;
+	padding-top: 20px;
+}
+
+/*footer*/
